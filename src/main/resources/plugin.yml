@@ -1,0 +1,7 @@
+name: MalAntiVPNSpigot
+version: '${project.version}'
+main: lol.maltest.malantivpnspigot.MalAntiVPNSpigot
+api-version: 1.13
+authors: [ maltest ]
+description: anti vpn plugin on https://github.com/malafk
+website: https://github.com/malafk
